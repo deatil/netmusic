@@ -1,0 +1,34 @@
+{
+	status: 1,
+	info: {
+		musics: [
+			{
+				id:1, 
+				name:'月亮惹的祸',
+				singer:'张宇',
+				album:'月亮惹的祸',
+				extension:'mp3',
+				file:'musics/music/123.mp3',
+				avatar:'musics/img/123.png',
+			},
+			{
+				id:2, 
+				name:'下雪',
+				singer:'张宇',
+				album:'月亮惹的祸',
+				extension:'mp3',
+				file:'musics/music/123.mp3',
+				avatar:'musics/img/123.png',
+			},
+			{
+				id:2, 
+				name:'冰雨',
+				singer:'张宇',
+				album:'月亮惹的祸',
+				extension:'mp3',
+				file:'musics/music/123.mp3',
+				avatar:'musics/img/123.png',
+			},
+		],
+	}
+}

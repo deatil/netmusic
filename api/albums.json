@@ -1,0 +1,19 @@
+{
+	status: 1,
+	info: {
+		musics: [
+			{
+				id:1, 
+				name:'月亮',
+				author:'小宇',
+				avatar:'musics/album/1.png',
+			},
+			{
+				id:2, 
+				name:'刃心',
+				author:'刃心小乖乖',
+				avatar:'musics/album/1.png',
+			},
+		],
+	}
+}

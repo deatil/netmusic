@@ -1,0 +1,10 @@
+{
+	status: 1,
+	info: {
+		name: '兔子',
+		avatar: 'musics/avatar/123.png',
+		following: '5',
+		follower: '6',
+		description: '兔子喜欢吃胡萝卜喔，你有胡萝卜吗？',
+	}
+}
